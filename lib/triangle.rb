@@ -29,4 +29,3 @@ class Triangle
 end
 
 
-# p Triangle.new(1,2,3)
